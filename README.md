@@ -1,2 +1,2 @@
 # Python-Projects
-Projects made in my first python class at ULL
+Projects made in my first python class at ULL -Cmps 150
