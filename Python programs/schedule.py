@@ -1,0 +1,10 @@
+print()
+print("             MWF 08:00 am-08:50 am"+" ///EE-233/// TR 08:00 am-09:15 am")
+print("CalculusI/// MWF 09:00 am-09:50 am ///////////  T  09:00 am-09:50 am")
+print("CMPS-260 /// MWF 10:00 am-10:50 am","             TR 10:45 am-12:00 am")
+print("             MWF 11:00 am-11:50 am","             TR 11:00 am-12:15 am")
+print("             MWF 12:00 am-12:50 am","///EE-240/// TR 12:30 am-01:45 pm")
+print("             MWF 01:00 pm-01:50 pm","             TR 02:00 pm-03:15 pm")
+print("EE-260 /////  W  02:00 pm-04:50 pm","             TR 03:30 pm-04:45 pm")
+x=14+27+14
+print(x)
